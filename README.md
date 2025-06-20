@@ -1,7 +1,7 @@
 # Portfólio CMD - Leonardo Henrique
 
 Um portfólio pessoal desenvolvido em HTML com design inspirado no visual clássico do Prompt de Comando (CMD) do Windows XP (meu primeiro contato com windows). O objetivo é apresentar minhas informações profissionais e habilidades de forma simples, nostálgica e interativa, remetendo à experiência do terminal.
-
+PS: Acesso ao portfólio no fim da seção Contato.
 ---
 
 ## Índice
@@ -44,7 +44,7 @@ Leonardo Henrique Barbosa <br>
 Email: leonardohenrique732@gmail.com<br>
 GitHub: https://github.com/Leonardohen18 <br>
 LinkedIn: https://www.linkedin.com/in/leonardo-henrique-barb/<br>
-
+Acesso ao Portfólio: https://github.com/Leonardohen18/meuportfolio/blob/main/portfolio_leonardo-henrique.html <br>
 ---
 
 Obrigado por visitar meu portfólio!
