@@ -1,6 +1,6 @@
 # Portfólio CMD - Leonardo Henrique
 
-Um portfólio pessoal desenvolvido em HTML com design inspirado no visual clássico do Prompt de Comando (CMD) do Windows XP (meu primeiro contato com windows). O objetivo é apresentar minhas informações profissionais e habilidades de forma simples, nostálgica e interativa, remetendo à experiência do terminal.
+Um portfólio pessoal desenvolvido em HTML com design inspirado no visual clássico do Prompt de Comando (CMD) do Windows XP (meu primeiro contato com windows). O objetivo é apresentar minhas informações profissionais e habilidades de forma simples, nostálgica e interativa, remetendo à experiência do terminal.<br>
 PS: Acesso ao portfólio no fim da seção Contato.
 ---
 
