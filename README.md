@@ -43,6 +43,7 @@ Este projeto é um portfólio online que simula o terminal do Windows XP (inclui
 Leonardo Henrique Barbosa
 Email: leonardohenrique732@gmail.com 
 GitHub: https://github.com/Leonardohen18
+LinkedIn: https://www.linkedin.com/in/leonardo-henrique-barb/
 
 ---
 
